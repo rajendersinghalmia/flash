@@ -11,7 +11,7 @@ public class BookDetailsApplication {
 		System.out.println("testing ");
 		System.out.println("some more chnages ");
 		
-		System.out.println("some more chnages ");
+		
 		
 		
 	}
